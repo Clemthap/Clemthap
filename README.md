@@ -1,4 +1,4 @@
-# Hi there, I'm [Thapelo]! 👋
+# Hi there, I'm Thapelo! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
