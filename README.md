@@ -17,7 +17,7 @@ I'm a passionate **Web Developer** with experience in **[technologies you're pro
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white )
+![C#]((https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white )
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
