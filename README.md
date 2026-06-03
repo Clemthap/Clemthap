@@ -1,7 +1,5 @@
 # Hi there, I'm Thapelo! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I'm a passionate aspiring Software Developer. 
