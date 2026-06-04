@@ -1,6 +1,7 @@
 # Hi there, I'm Thapelo! 👋
 
-<img width="500" height="500" alt="ProfilePic" src="https://github.com/user-attachments/assets/00b40099-07b9-45b7-9cda-84c4d728e081" />
+<img width="250" height="250" alt="ProfilePic" src="https://github.com/user-attachments/assets/00b40099-07b9-45b7-9cda-84c4d728e081" />
+
 ## About Me 🚀
 
 I'm a passionate aspiring Software Developer. 
