@@ -1,6 +1,6 @@
 # Hi there, I'm Thapelo! 👋
 
-<img width="1234" height="1274" alt="ProfilePic" src="https://github.com/user-attachments/assets/00b40099-07b9-45b7-9cda-84c4d728e081" />
+<img width="500" height="500" alt="ProfilePic" src="https://github.com/user-attachments/assets/00b40099-07b9-45b7-9cda-84c4d728e081" />
 ## About Me 🚀
 
 I'm a passionate aspiring Software Developer. 
@@ -21,7 +21,7 @@ I love tackling complex problems, learning new skills, and collaborating with di
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
-![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
 
 ## FRAMEWORKS 
