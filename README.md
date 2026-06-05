@@ -7,7 +7,7 @@
 I'm a passionate aspiring Software Developer. 
 I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions, beyond that I just love solving real problems that can be helpful to the society, business and build things that help the normal citizens. I continously learn new things.
 
-- 🌱 Currently learning: Java, AppSec and BackEnd technologies.
+- 🌱 Currently learning: Java, AppSec and BackEnd technologies and framework
 - 🔭 Working on: school-based LMS that teachers will be able to use
                   - credit system predictions based on applicant's lifestyle behaviour(private)
 - 🌍 Languages: Java, C#, html, css, JavaScript.
