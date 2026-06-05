@@ -39,7 +39,8 @@ I love tackling complex problems, learning new skills, and collaborating with di
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]** (under Construction)
+- **[Blog]** (under Construction)
+- **[Personal Website]**[(https://github.com/Clemthap/https---github.com-Thapelo-Portfolio)]
 - **[LinkedIn]**[(https://www.linkedin.com/in/makofaneclement/)
 
 
