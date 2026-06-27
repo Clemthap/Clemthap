@@ -11,7 +11,7 @@ I love tackling complex problems, learning new skills, and collaborating with di
 - 🔭 Working on: school-based LMS that teachers will be able to use
                   - credit system predictions based on applicant's lifestyle behaviour(private)
 - 🌍 Languages: Java, C#, html, css, JavaScript.
-- 📫 Reach me through my website : https://clemthap.github.io/https-Clemthap-portfolio.github.io/
+- 📫 Reach me through my website on the left panel
 - ⚡ Fun fact: I enjoy learning new technologies and about the economies.
 
 ## My Skills 🧠
